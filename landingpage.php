@@ -55,5 +55,5 @@
 
     <div class = "process">ORDER HAS BEEN PROCESSED</div>
     <div class="order">
-        <a href="proj.php" class="btn">Back to Homepage!</a>
+        <a href="index.php" class="btn">Back to Homepage!</a>
     </div>
