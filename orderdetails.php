@@ -128,12 +128,12 @@ echo "</div>";
         <a href="#" class="logo"><img src="img/logoo.png" alt=""></a>
         <div class="bx bx-menu" id="menu-icon"></div>
         <ul class="navbar">
-            <li><a href="proj.php">HOME</a></li>
-            <li><a href="proj.php">SHOP</a></li>
-            <li><a href="proj.php">DELIVERY</a></li>
-            <li><a href="proj.php">APP</a></li>
-            <li><a href="proj.php">ABOUT</a></li>
-            <li><a href="proj.php">CONTACT</a></li>
+            <li><a href="index.php">HOME</a></li>
+            <li><a href="index.php">SHOP</a></li>
+            <li><a href="index.php">DELIVERY</a></li>
+            <li><a href="index.php">APP</a></li>
+            <li><a href="index.php">ABOUT</a></li>
+            <li><a href="index.php">CONTACT</a></li>
         </ul>
     </header>
 
